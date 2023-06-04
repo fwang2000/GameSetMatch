@@ -11,4 +11,4 @@ Download:
 - mysql server
 
 Create a table in the database named GameSetMatch
-Run GameSetMatchSqlUpdated.sql filein the 
+Run GameSetMatchSqlUpdated.sql file
