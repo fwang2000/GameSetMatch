@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\AdminComponents",
+    "\\src\\components\\AdminComponents\\ManageTournaments",
+    "\\src\\components\\Dashboard\\Calendar",
+    "\\src\\components\\General"
+  ],
+  "SelectedNode": "\\src\\components\\Dashboard",
+  "PreviewInSolutionExplorer": false
+}

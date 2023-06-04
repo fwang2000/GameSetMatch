@@ -1,0 +1,12 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.rbc-toolbar button{
+    color: #e08808;
+}
+
+*{
+    -ms-overflow-style: none;
+}
